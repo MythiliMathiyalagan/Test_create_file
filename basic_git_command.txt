@@ -1,0 +1,4 @@
+1. Check branch name already exists:
+	=> $ git branch -avv
+2. Any modify the opal branches check command
+	=> 
